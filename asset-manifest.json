@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Travel-Buddy/static/css/main.2d2c3e6a.css",
+    "main.js": "/Travel-Buddy/static/js/main.0af0732d.js",
+    "static/media/Destination4.jpg": "/Travel-Buddy/static/media/Destination4.5e1c88a1f4c914400002.jpg",
+    "static/media/hero5.jpg": "/Travel-Buddy/static/media/hero5.76966028211a96075cc1.jpg",
+    "static/media/review1.jpeg": "/Travel-Buddy/static/media/review1.e5992dedc3115cc0f450.jpeg",
+    "static/media/review4.jpg": "/Travel-Buddy/static/media/review4.7e9230e8731aa16292ac.jpg",
+    "static/media/Destination6.jpeg": "/Travel-Buddy/static/media/Destination6.9e5e67caa3046906e308.jpeg",
+    "static/media/Destination1.jpeg": "/Travel-Buddy/static/media/Destination1.e23b6f5b2fb17f8cae50.jpeg",
+    "static/media/Destination5.jpeg": "/Travel-Buddy/static/media/Destination5.a405f231762cb662a4bb.jpeg",
+    "static/media/Destination3.jpeg": "/Travel-Buddy/static/media/Destination3.736e0829b1efefbb8988.jpeg",
+    "static/media/Destination2.jpeg": "/Travel-Buddy/static/media/Destination2.96ddd96fb41d41d8ce81.jpeg",
+    "static/media/review2.jpg": "/Travel-Buddy/static/media/review2.ed0d0cce427569326d89.jpg",
+    "index.html": "/Travel-Buddy/index.html",
+    "main.2d2c3e6a.css.map": "/Travel-Buddy/static/css/main.2d2c3e6a.css.map",
+    "main.0af0732d.js.map": "/Travel-Buddy/static/js/main.0af0732d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2c3e6a.css",
+    "static/js/main.0af0732d.js"
+  ]
+}
